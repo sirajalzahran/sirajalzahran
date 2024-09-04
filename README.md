@@ -60,7 +60,7 @@ I’m a dedicated software artisan, passionate about coding and creating solutio
 ### ✍️ My Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Stay%20focused%20and%20keep%20pushing%20forward)
 
----
-[![](https://visitcount.itsvg.in/api?id=sirajalzahran&icon=3&color=6)](https://visitcount.itsvg.in)
+<!-- ---
+[![](https://visitcount.itsvg.in/api?id=sirajalzahran&icon=3&color=6)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
