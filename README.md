@@ -5,7 +5,7 @@
 I’m a dedicated software artisan, passionate about coding and creating solutions to complex problems. I’m relentless in my pursuit of excellence—my keyboard is my tool, my mouse is my precision instrument, and I take pride in both. From development to testing, coding isn’t just my work; it’s my passion.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sirajalzahran/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirajalzahran/) 
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
