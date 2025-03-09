@@ -1,6 +1,6 @@
 # ♞ Siraj AL Zahran
 
-**`Full Stack Artisan`**
+**`Software Artisan`**
 
 I’m a dedicated software artisan, passionate about coding and creating solutions to complex problems. I’m relentless in my pursuit of excellence—my keyboard is my tool, my mouse is my precision instrument, and I take pride in both. From development to testing, coding isn’t just my work; it’s my passion.
 
