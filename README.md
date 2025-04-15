@@ -46,20 +46,20 @@
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
-<h2 align="center">🌌 NEBULA STATS 🌌</h2>
+<!-- <h2 align="center">🌌 NEBULA STATS 🌌</h2>
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sirajalzahran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sirajalzahran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 <div align="center">
   <img width="59%" src="https://github-profile-trophy.vercel.app/?username=sirajalzahran&theme=tokyonight&no-frame=true&column=4&row=1" alt="GitHub Trophy" />
-</div>
+</div> -->
 <!-- Contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sirajalzahran&bg_color=0D1117&color=03C988&line=03C988&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirajalzahran&bg_color=0D1117&color=03C988&line=03C988&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 ### ✍️ My Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Stay%20focused%20and%20keep%20pushing%20forward" alt="Quote" />
-</div>
+</div> -->
 <!-- Footer Animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,30&height=120&section=footer&animation=fadeIn" width="100%"/>
