@@ -1,9 +1,10 @@
 # ♞ Siraj AL Zahran
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,30&height=180&section=header&text=Software%20Artisan&fontSize=42&fontAlignY=40&animation=fadeIn" width="100%"/>
-</div>
+</div> -->
 
-<p align="center"> I’m a dedicated Software Developer and Tech Artisan, passionate about coding and crafting elegant solutions to complex problems. Relentless in my pursuit of excellence, my keyboard is my tool, my mouse my precision instrument, and I take pride in both. From development through testing, coding isn’t just my work; it’s my passion. </p>
+<p align="center"> 
+I’m a dedicated Software Developer and Tech Artisan, passionate about coding and crafting elegant solutions to complex problems. Relentless in my pursuit of excellence, my keyboard is my tool, my mouse my precision instrument, and I take pride in both. From development through testing, coding isn’t just my work; it’s my passion.</p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://sirajalzahran.com" target="_blank" rel="noopener noreferrer">
