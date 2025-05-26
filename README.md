@@ -2,9 +2,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,30&height=180&section=header&text=Software%20Artisan&fontSize=42&fontAlignY=40&animation=fadeIn" width="100%"/>
 </div>
-<p align="center">
-  I'm a dedicated software artisan, passionate about coding and creating solutions to complex problems. I'm relentless in my pursuit of excellence—my keyboard is my tool, my mouse is my precision instrument, and I take pride in both. From development to testing, coding isn't just my work; it's my passion.
-</p>
+
+<p align="center"> I’m a dedicated Software Developer and Tech Artisan, passionate about coding and crafting elegant solutions to complex problems. Relentless in my pursuit of excellence, my keyboard is my tool, my mouse my precision instrument, and I take pride in both. From development through testing, coding isn’t just my work; it’s my passion. </p>
+
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://sirajalzahran.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Profile-%23000000.svg?logo=about-dot-me&logoColor=white&style=for-the-badge" alt="Profile" />
@@ -12,10 +12,6 @@
   
   <a href="https://www.linkedin.com/in/sirajalzahran/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-
-  <a href="https://wa.me/96171170949?text=Hi%2C%20I%20visited%20your%20GitHub%20and%20want%20to%20connect." target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
-    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp" />
   </a>
 </div>
 
