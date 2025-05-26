@@ -1,6 +1,6 @@
 # ♞ Siraj AL Zahran
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,30&height=180&section=header&text=Software%20Artisan&fontSize=42&fontAlignY=40&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,30&height=180&section=header&text=Software%20Developer&fontSize=42&fontAlignY=40&animation=fadeIn" width="100%"/>
 </div>
 
 <p style="text-align: center; max-width: 70ch; margin: 0 auto; line-height: 1.6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 1em;">
