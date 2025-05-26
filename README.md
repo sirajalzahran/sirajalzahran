@@ -5,11 +5,20 @@
 <p align="center">
   I'm a dedicated software artisan, passionate about coding and creating solutions to complex problems. I'm relentless in my pursuit of excellence—my keyboard is my tool, my mouse is my precision instrument, and I take pride in both. From development to testing, coding isn't just my work; it's my passion.
 </p>
-<div align="center">
-  <a href="https://www.linkedin.com/in/sirajalzahran/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://sirajalzahran.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Profile-%23000000.svg?logo=about-dot-me&logoColor=white&style=for-the-badge" alt="Profile" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/sirajalzahran/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+
+  <a href="https://wa.me/96171170949" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp" />
   </a>
 </div>
+
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
