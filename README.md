@@ -14,10 +14,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
 
-  <a href="https://wa.me/96171170949" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
+  <a href="https://wa.me/96171170949?text=Hi%2C%20I%20visited%20your%20GitHub%20and%20want%20to%20connect." target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
     <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp" />
   </a>
 </div>
+
 
 
 <p align="center">
