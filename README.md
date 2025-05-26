@@ -1,10 +1,11 @@
 # ♞ Siraj AL Zahran
-<!-- <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,30&height=180&section=header&text=Software%20Artisan&fontSize=42&fontAlignY=40&animation=fadeIn" width="100%"/>
-</div> -->
+</div>
 
-<p align="center"> 
-I’m a dedicated Software Developer and Tech Artisan, passionate about coding and crafting elegant solutions to complex problems. Relentless in my pursuit of excellence, my keyboard is my tool, my mouse my precision instrument, and I take pride in both. From development through testing, coding isn’t just my work; it’s my passion.</p>
+<p style="text-align: center; max-width: 70ch; margin: 0 auto; line-height: 1.6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 1em;">
+  I’m a dedicated Software Developer and Tech Artisan, passionate about coding and crafting elegant solutions to complex problems. Relentless in my pursuit of excellence, my keyboard is my tool, my mouse my precision instrument, and I take pride in both. From development through testing, coding isn’t just my work; it’s my passion.
+</p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://sirajalzahran.com" target="_blank" rel="noopener noreferrer">
@@ -18,9 +19,9 @@ I’m a dedicated Software Developer and Tech Artisan, passionate about coding a
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+</p> -->
 <!-- Animated Skills Icons -->
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
@@ -51,9 +52,9 @@ I’m a dedicated Software Developer and Tech Artisan, passionate about coding a
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vscode" />
   </p>
 </div>
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+</p> -->
 <h2 align="center">🌌 NEBULA STATS 🌌</h2>
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sirajalzahran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
