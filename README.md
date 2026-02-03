@@ -55,11 +55,11 @@
 <!-- <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p> -->
-<h2 align="center">🌌 NEBULA STATS 🌌</h2>
-<div align="center">
+<!-- <h2 align="center">🌌 NEBULA STATS 🌌</h2> -->
+<!-- <div align="center"> -->
 <!--   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sirajalzahran&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sirajalzahran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sirajalzahran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> -->
+<!-- </div> -->
 <div align="center">
   <img width="59%" src="https://github-profile-trophy.vercel.app/?username=sirajalzahran&theme=tokyonight&no-frame=true&column=4&row=1" alt="GitHub Trophy" />
 </div> 
