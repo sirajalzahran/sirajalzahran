@@ -60,9 +60,9 @@
 <!--   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sirajalzahran&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> -->
   <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sirajalzahran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> -->
 <!-- </div> -->
-<div align="center">
-  <img width="59%" src="https://github-profile-trophy.vercel.app/?username=sirajalzahran&theme=tokyonight&no-frame=true&column=4&row=1" alt="GitHub Trophy" />
-</div> 
+<!-- <div align="center"> -->
+  <!-- <img width="59%" src="https://github-profile-trophy.vercel.app/?username=sirajalzahran&theme=tokyonight&no-frame=true&column=4&row=1" alt="GitHub Trophy" /> -->
+<!-- </div>  -->
 <!-- Contribution graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirajalzahran&bg_color=0D1117&color=03C988&line=03C988&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 <!-- ### ✍️ My Quote
