@@ -1,10 +1,10 @@
 # ♞ Siraj AL Zahran
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,30&height=180&section=header&text=Software%20Developer&fontSize=42&fontAlignY=40&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,30&height=180&section=header&text=Software%20Engineer&fontSize=42&fontAlignY=40&animation=fadeIn" width="100%"/>
 </div>
 
 <p style="text-align: center; max-width: 70ch; margin: 0 auto; line-height: 1.6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 1em;">
-  I’m a dedicated Software Developer and Tech Artisan, passionate about coding and crafting elegant solutions to complex problems. Relentless in my pursuit of excellence, my keyboard is my tool, my mouse my precision instrument, and I take pride in both. From development through testing, coding isn’t just my work; it’s my passion.
+  I’m a dedicated Software Engineer and Tech Artisan, passionate about coding and crafting elegant solutions to complex problems. Relentless in my pursuit of excellence, my keyboard is my tool, my mouse my precision instrument, and I take pride in both. From development through testing, coding isn’t just my work; it’s my passion.
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
