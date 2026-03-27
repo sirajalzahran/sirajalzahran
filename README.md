@@ -35,17 +35,17 @@
 
 ## What I'm Building
 
-- 🤖 **Artisan** – AI developer productivity tool that automates test generation and technical writing for engineers, with AI agents for Playwright scaffolding, documentation, and code analysis
-- <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/flossy.png" height="16" /> **Flossy** – Local-first hybrid mobile app for personal finance — track expenses, manage income, set savings goals with deadlines, and visualize spending with analytics. Your data stays on your device, no accounts or cloud sync required
+- 🤖 **Artisan** – AI agents for test generation, documentation, and code analysis — built for engineers who ship
+- <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/flossy.png" height="16" /> **Flossy** – Local-first mobile finance app — track spending, set goals, and plan savings with full privacy, no cloud required
 
 ## Products I've Built
 
-- <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/qaemah.png" height="16" /> **[Qaemah](https://qaemah.com/)** – No-code platform for businesses to create online storefronts with WhatsApp ordering, custom branding, and Arabic/English RTL support
-- <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/suppliary.png" height="16" /> **[Suppliary](https://www.suppliary.com/)** – Enterprise supplier management platform for centralized onboarding, verification, team collaboration, and smart analytics
-- <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/greenav.png" height="16" /> **Greenav** – Operations platform for warehouse and route-bin management with dispatch tracking and real-time dashboard
-- 🏗️ **Construction Management App** – Mobile app for construction project tracking, task management, and team coordination across active sites *(Cube Contracting)*
-- <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/studentAttendance.png" height="16" /> **Student Attendance System** – Desktop app for managing and tracking student attendance with automated reports and analytics
-- <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/smsp.png" height="16" /> **SMSP** – Services Management System Platform for electricity providers and generator owners, featuring subscription service modules and access management with more modules coming soon
+- <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/qaemah.png" height="16" /> **[Qaemah](https://qaemah.com/)** – No-code storefront builder with WhatsApp ordering, custom branding, and Arabic/English RTL support
+- <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/suppliary.png" height="16" /> **[Suppliary](https://www.suppliary.com/)** – Enterprise supplier management — onboarding, verification, team collaboration, and smart analytics in one platform
+- <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/greenav.png" height="16" /> **Greenav** – Waste operations platform for route-bin management, dispatch tracking, and real-time dashboard
+- 🏗️ **Construction Management App** – Mobile app for site tracking, task management, and crew coordination *(Cube Contracting)*
+- <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/studentAttendance.png" height="16" /> **Student Attendance System** – Desktop app for attendance tracking with automated reports and analytics
+- <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/smsp.png" height="16" /> **SMSP** – Services management platform for electricity providers and generator owners, with subscription modules and access control
 
 ## [The Lab](https://www.sirajalzahran.com/lab)
 
