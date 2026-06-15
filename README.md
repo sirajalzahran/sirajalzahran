@@ -35,7 +35,7 @@
 
 ## What I'm Building
 
-- <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/habitRabbit.png" height="16" /> **Habit Rabbit** – Turn daily habits into lasting routines, where kids prove their effort and earn real money, controlled entirely by parents
+- <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/habitRabbit.png" height="16" /> **[Habit Rabbit](https://www.habit-rabbit.org/)**– Turn daily habits into lasting routines, kids prove their effort and earn real money, controlled entirely by parents
 - 🤖 **Artisan** – AI agents for test generation, documentation, and code analysis — built for engineers who ship
 - <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/flossy.png" height="16" /> **Flossy** – Local-first mobile finance app — track spending, set goals, and plan savings with full privacy, no cloud required
 
