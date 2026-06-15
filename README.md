@@ -35,11 +35,13 @@
 
 ## What I'm Building
 
+- <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/habitRabbit.png" height="16" /> **Habit Rabbit** – Turn daily habits into lasting routines, where kids prove their effort and earn real money, controlled entirely by parents
 - 🤖 **Artisan** – AI agents for test generation, documentation, and code analysis — built for engineers who ship
 - <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/flossy.png" height="16" /> **Flossy** – Local-first mobile finance app — track spending, set goals, and plan savings with full privacy, no cloud required
 
 ## Products I've Built
 
+- <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/rsvp.png" height="16" /> **Event Management Platform** – 2D hall seating architecture, WhatsApp invitation automation, and real-time reservation tracking
 - <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/qaemah.png" height="16" /> **[Qaemah](https://qaemah.com/)** – No-code storefront builder with WhatsApp ordering, custom branding, and Arabic/English RTL support
 - <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/suppliary.png" height="16" /> **[Suppliary](https://www.suppliary.com/)** – Enterprise supplier management — onboarding, verification, team collaboration, and smart analytics in one platform
 - <img src="https://raw.githubusercontent.com/sirajalzahran/sirajalzahran/main/assets/greenav.png" height="16" /> **Greenav** – Waste operations platform for route-bin management, dispatch tracking, and real-time dashboard
